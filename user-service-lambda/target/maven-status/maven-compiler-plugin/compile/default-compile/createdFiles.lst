@@ -1,0 +1,10 @@
+com\twittersecure\userservice\config\AppConfig.class
+com\twittersecure\userservice\util\JsonFactory.class
+com\twittersecure\userservice\model\UserProfileItem.class
+com\twittersecure\userservice\util\ApiResponseFactory.class
+com\twittersecure\userservice\model\UserContext.class
+com\twittersecure\userservice\handler\UserProfileHandler.class
+com\twittersecure\userservice\repository\MongoClientProvider.class
+com\twittersecure\userservice\service\UserProfileService.class
+com\twittersecure\userservice\repository\UserProfileRepository.class
+com\twittersecure\userservice\util\AuthContextResolver.class

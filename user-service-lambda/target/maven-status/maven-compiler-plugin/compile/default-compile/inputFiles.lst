@@ -1,0 +1,10 @@
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\config\AppConfig.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\handler\UserProfileHandler.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\model\UserContext.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\model\UserProfileItem.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\repository\MongoClientProvider.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\repository\UserProfileRepository.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\service\UserProfileService.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\util\ApiResponseFactory.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\util\AuthContextResolver.java
+C:\Users\Janus\Downloads\twitter-secure-microservices\twitter-secure-microservices\user-service-lambda\src\main\java\com\twittersecure\userservice\util\JsonFactory.java

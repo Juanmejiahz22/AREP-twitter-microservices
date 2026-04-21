@@ -1,0 +1,3 @@
+com\twittersecure\userservice\service\UserProfileServiceTest.class
+com\twittersecure\userservice\support\EventFactory.class
+com\twittersecure\userservice\handler\UserProfileHandlerTest.class
