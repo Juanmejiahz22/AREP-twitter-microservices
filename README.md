@@ -75,4 +75,4 @@ MIT
 
 ---
 
-Para más información sobre la fase anterior (monolito), ver: [AREP-Twitter](https://github.com/Juanmejiahz22/AREP-Twitter)
+Para más información sobre la fase anterior (monolito), ver: [AREP-Monolito](https://github.com/Juanmejiahz22/AREP-Monolito)
